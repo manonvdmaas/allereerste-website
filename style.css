@@ -3,7 +3,10 @@ html {
 }
 
 body
-background-image: url('ATH_ACROPOLIS_MUSEUM_SCULPTURESPeplos_Kore_3');
+background-image: url('ATH_ACROPOLIS_MUSEUM_SCULPTURESPeplos_Kore_3.gif');
+background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 
 }
 
