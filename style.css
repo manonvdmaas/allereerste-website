@@ -20,13 +20,13 @@ body, pre, pre code {
 }
 
 a, a:visited {
-  color: white;
+  color: #FFFFFF;
 }
 
 h1, h2 {
   display: inline-block;
   border-bottom-style: dotted;
-  border-bottom-color: #48820f;
+  border-bottom-color: #FFFFFF;
 }
 
 h1 {
