@@ -2,7 +2,7 @@ html {
   background-color: 	#000000; 
 }
 
-body {<center>
+body {
   width: 750px;
   max-width: 90%;
   margin: 0 auto;
@@ -55,6 +55,4 @@ img, audio, iframe {
   left: 0;
   width: 100%;
   height: 100%;
-  
-</center>
 }
