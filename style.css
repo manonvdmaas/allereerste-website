@@ -1,18 +1,9 @@
 html {
-  background-color:  #FFFFFF;
+  background-color: 	#000000; 
 }
 
 body {
-  width: 750px;
-  max-width: 90%;
-  margin: 0 auto;
-  padding: 1em;
-
-
-
-  font-family: 'Cambria';
-  font-weight: normal;
-  font-style: normal;
+  
 }
 
 body, pre, pre code {
@@ -20,13 +11,11 @@ body, pre, pre code {
 }
 
 a, a:visited {
-  color: #48820f;
+  color: #FFFFFF;
 }
 
 h1, h2 {
   display: inline-block;
-  border-bottom-style: dotted;
-  border-bottom-color: #48820f;
 }
 
 h1 {
@@ -39,6 +28,53 @@ h2 {
 
 img, audio, iframe {
   width: 100%;
+}
+
+#header-1 {
+	height:550px;
+	width:350px;
+	z-index: 1;
+	position:fixed;
+	top: 75px;
+}
+
+#header-2 {
+	height:550px;
+	width:350px;
+	z-index: 1;
+	position:fixed;
+	right: 0;
+	top: 75px;
+}
+
+.container {
+	width: 750px;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 1em;
+  color:#ffffff;
+  font-family: 'Cambria';
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  background-color: black;
+}
+
+.map-container {
+	width: 750px;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 1em;
+  color:#ffffff;
+  font-family: 'Cambria';
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  background-color: black;
 }
 
 .video-container {
