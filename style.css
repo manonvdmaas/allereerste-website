@@ -50,7 +50,7 @@ img, audio, iframe {
   margin: 0 auto;
   padding: 1em;
   color:#ffffff;
-  font-family: 'Cambria';
+  font-family: 'Roboto', sans-serif;
   font-weight: normal;
   font-style: normal;
   text-align: center;
@@ -65,7 +65,7 @@ img, audio, iframe {
   margin: 0 auto;
   padding: 1em;
   color:#ffffff;
-  font-family: 'Cambria';
+  font-family: 'Roboto', sans-serif;
   font-weight: normal;
   font-style: normal;
   text-align: center;
@@ -100,7 +100,7 @@ h1 {
     }
 p {
     font-family: 'Roboto', sans-serif;
-    font-size: 15px;
-    line-height: 23px;
+    font-size: 17px;
+    line-height: 25px;
     margin: 0 0 23px 0;
     }
