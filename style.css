@@ -14,7 +14,7 @@ a, a:visited {
   color: #FFFFFF;
 }
 
-h1, h2 {
+h1 {
   display: inline-block;
 }
 
@@ -22,9 +22,6 @@ h1 {
   border-bottom-width: 10px;
 }
 
-h2 {
-  border-bottom-width: 5px;
-}
 
 img, audio, iframe {
   width: 100%;
