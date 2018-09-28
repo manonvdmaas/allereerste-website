@@ -99,5 +99,8 @@ h1 {
     margin: 0 0 43px 0;
     }
 p {
-	font: cambria;
-}
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+    }
