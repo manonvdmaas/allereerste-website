@@ -3,7 +3,11 @@ html {
 }
 
 body {
-  
+
+}
+
+body, pre, pre code {
+  font-size: 18px;
 }
 
 a, a:visited {
