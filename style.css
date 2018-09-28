@@ -50,7 +50,7 @@ img, audio, iframe {
   margin: 0 auto;
   padding: 1em;
   color:#ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Cambria', sans-serif;
   font-weight: normal;
   font-style: normal;
   text-align: center;
@@ -65,7 +65,7 @@ img, audio, iframe {
   margin: 0 auto;
   padding: 1em;
   color:#ffffff;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Cambria', sans-serif;
   font-weight: normal;
   font-style: normal;
   text-align: center;
@@ -99,8 +99,8 @@ h1 {
     margin: 0 0 43px 0;
     }
 p {
-    font-family: 'Roboto', sans-serif;
-    font-size: 15px;
+    font-family: 'Cambria', sans-serif;
+    font-size: 13px;
     line-height: 27px;
     margin: 0 0 23px 0;
     }
